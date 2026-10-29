@@ -1,0 +1,5 @@
+[
+  {"id": "coffee", "name": "Arabica Coffee 1kg", "price": 24.90, "description": "Freshly roasted 100% arabica beans."},
+  {"id": "mug", "name": "Ceramic Mug", "price": 12.50, "description": "350 ml handmade ceramic mug."},
+  {"id": "grinder", "name": "Manual Grinder", "price": 39.00, "description": "Stainless steel burr grinder."}
+]
